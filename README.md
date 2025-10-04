@@ -1,1 +1,2 @@
-# Must be opened in obsidian
+A selection of useful programs. 
+Open via obsidian

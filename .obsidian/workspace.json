@@ -11,13 +11,14 @@
             "id": "b442aa04578ed1a6",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "SoftDB.base",
-                "viewName": "View"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "SoftDB"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -182,11 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "b442aa04578ed1a6",
+  "active": "023892a63ad23526",
   "lastOpenFiles": [
+    "SoftDB.base",
     "Software/VLC.md",
     "Software/Obsidian.md",
-    "SoftDB.base",
     "Software/Termux.md",
     "Software/digiKam.md",
     "Software/Firefox.md",
