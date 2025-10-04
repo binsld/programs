@@ -1,14 +1,15 @@
 formulas:
-  Untitled: ""
   Untitled 2: file.tags.filter(!file("SystemTags").tags.contains(value))
   OS: file.tags.filter(file("SystemTags").tags.contains(value))
-  Untitled 3: ""
-  Untitled 4: file.tags.filter(file("OS tags").tags.contains(value))
 properties:
   file.name:
     displayName: Name
   formula.Untitled 2:
     displayName: Tags
+  note.description:
+    displayName: Description
+  note.site:
+    displayName: Site
 views:
   - type: table
     name: View
@@ -20,6 +21,8 @@ views:
       - file.name
       - formula.Untitled 2
       - formula.OS
-      - formula.Untitled 4
+      - description
+      - site
     columnSize:
       formula.OS: 195
+      note.description: 376
