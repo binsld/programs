@@ -6,4 +6,8 @@ site: https://www.videolan.org/vlc/
 
 ![[VLC screenshot.png]]
 
-Медиаплеер с большим количеством функционала
+A media player with a lot of functionality.
+
+- good customization
+- light weight
+- large number of supported codecs
